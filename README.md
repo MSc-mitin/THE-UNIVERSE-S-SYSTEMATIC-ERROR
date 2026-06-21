@@ -12,7 +12,7 @@ This work proposes a thermodynamic theory of level-emergence. Its core is a sing
 ## Full text
 
 - [Theory v1.2 (PDF)](./THEORY_THE_UNIVERSE_S_SYSTEMATIC_ERROR_V1_2_2.pdf)
-- [Safe Active Inference v8 (PDF)](./Safe_Active_Inference_v8_en_1.pdf)
+- [Safe Active Inference v8 (PDF)](./Safe_Active_Inference_v8_en.pdf)
 - [SAI-Bio (PDF)](./Safe_Active_Inference_BIO_en.pdf)
 
 ## Citation
